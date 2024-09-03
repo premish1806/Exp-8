@@ -12,7 +12,7 @@ These C++ programs demonstrate basic matrix operations, which are essential in v
 The subsequent programs explore operations like matrix addition, multiplication, diagonal element summation, and transposition. Matrix addition combines corresponding elements from two matrices, while multiplication involves a more intricate process of combining rows and columns. Summing diagonal elements helps in understanding the special properties of square matrices, and transposition flips a matrix over its diagonal, swapping rows with columns. Each of these operations builds on the previous one, helping to reinforce the concepts of matrix manipulation in C++.
 
 
-## Program 1: Take number of rows, columns and elements from user anddisplay it in the form of matrix. 
+## Program 1: Take number of rows, columns and elements from user and display it in the form of matrix. 
 <br>
 
 <strong> Code: </strong>
@@ -51,6 +51,7 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/812d348b-be19-46a3-9205-bbd4dd1b1337)
 
 
 ## Program 2: Take two matrices from user and perform addition and multiplication.
