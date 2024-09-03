@@ -156,6 +156,7 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/60b35c20-360c-448c-a253-5dae1b682f5e)
 
 
 
@@ -213,6 +214,7 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/2d014868-61cb-4db2-9c39-3fc5f6369fb9)
 
 
 
@@ -275,6 +277,8 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/3a891ee8-5fd6-45bb-a33d-00c0607b6204)
+
 
 ## Conclusion:
 Through these C++ programs, we learned how to perform essential matrix operations such as displaying a matrix, addition, multiplication, diagonal element summation, and transposition. These fundamental operations help in understanding how matrices work in programming, providing a strong foundation for more advanced computational tasks.
